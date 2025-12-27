@@ -13,19 +13,23 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[My heart],
 
-Your personalized birthday message goes here.
+Wishing you a day full of smiles, love, and happiness, and a year filled with success and beautiful moments. 
+You are truly special, and I hope today reminds you of how loved and appreciated you are. 
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+No matter where life takes us, I’ll always wish the best for you and hope you keep smiling always. 
+You deserve a beautiful day and an even more beautiful year ahead
 
-Happy Birthday! 🎉
+Happiest Birthday to the most Precious Person of my life 
+The one I can tell my soul to The one who never leave me or never hates me and I'm sure you will stay with me forever.  
+I'm so grateful for having such a good person like you in my life. 
+i am blessed to have you
 
-— [Your Name]`;
+Happy Birthday sweeetheart! 🎉
+
+— [your lilith]`;
 
   // Handle page transitions
   useEffect(() => {
